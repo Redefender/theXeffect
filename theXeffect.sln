@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2048
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tXeDataManager", "tXeDataManager\tXeDataManager.csproj", "{4E6D0650-DA61-4CA7-8E74-5766169B74F9}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "tXeData", "tXeData\tXeData.sqlproj", "{1D5A63B3-277B-4007-89EB-BA8150997A97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{4E6D0650-DA61-4CA7-8E74-5766169B74F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E6D0650-DA61-4CA7-8E74-5766169B74F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E6D0650-DA61-4CA7-8E74-5766169B74F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5A63B3-277B-4007-89EB-BA8150997A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5A63B3-277B-4007-89EB-BA8150997A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5A63B3-277B-4007-89EB-BA8150997A97}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1D5A63B3-277B-4007-89EB-BA8150997A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5A63B3-277B-4007-89EB-BA8150997A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5A63B3-277B-4007-89EB-BA8150997A97}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
