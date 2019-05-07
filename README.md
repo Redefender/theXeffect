@@ -1,6 +1,6 @@
 # theXeffect
-An app that prints a PDF to help users track their habits and keep them motivated!
+An app that help users track their habits and keep them motivated!
 
-Idea inspired by r/theXeffect. There are a lot of streak tracker apps out there, but a common complaint is that when marking a task done for the day behind a screen the reward just isn't the same. Also, making the actual calender for the tracker on paper takes a little work. 
+Idea inspired by r/theXeffect. There are a lot of streak tracker apps, but a common complaint is that marking a task done behind a screen doesn't feel as good as doing it on paper. With this app, the user will be able to have the appropriate calender without having to create it manually.
 
-With this app the user will be able to list their habits, duration, and quickly be able to print it out. 
+The app includes login functionality to store previous habits.
