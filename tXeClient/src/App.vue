@@ -1,19 +1,16 @@
 <template>
     <div id="app">
-        <NavBar></NavBar>
-        <Home/>
+         <Main></Main>
     </div>
 </template>
 
 <script>
-    import Home from './components/Home.vue';
-    import NavBar from './components/NavBar.vue'
+    import Main from './components/Main.vue'
     export default {
-        name: 'app',
-        components: {
-            Home, NavBar
-        }
-    };
+        name: 'App',
+      
+        components: {Main }
+    } 
 </script>
 
 <style>
